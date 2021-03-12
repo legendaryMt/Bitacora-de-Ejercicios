@@ -1,4 +1,7 @@
-
+//Equipo 
+//Marco Antonio Tuz Pech
+//Rodrigo Angel Poot Poot 
+//Jose Mauricio Canul Chuc
 package bitacora_de_ejercicios;
 import java.util.Scanner;
 public class Bitacora_de_ejercicios {
